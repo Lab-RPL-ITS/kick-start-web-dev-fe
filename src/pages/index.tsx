@@ -33,7 +33,7 @@ export default function Home() {
       <section className="bg-[#EFAF64]">
         <div className="w-11/12 max-w-[1320px] mx-auto flex sm:flex-row flex-col">
           <div className="sm:w-1/2 pb-5 pt-16 sm:py-20 lg:py-40">
-            <h1 className="text-5xl lg:text-[85px] leading-[55px] lg:leading-[80px]">
+            <h1 className="text-5xl lg:text-[85px] leading-[55px] lg:leading-[80px] font-tnr">
               Design <br /> what you love
             </h1>
             <p className="mt-8 lg:mt-16 lg:text-2xl">
